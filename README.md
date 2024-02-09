@@ -1,5 +1,5 @@
 # Spotify-Database
-Group Members: Leah Sobral, Salwa Naveed
+Group Members: Leah Sobral
 Title: GeoMusic Database: Crafting a Database Framework for Seamless Music Discovery Based on Location
 
 Abstract:
